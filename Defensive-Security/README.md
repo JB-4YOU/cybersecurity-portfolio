@@ -66,5 +66,6 @@ Outcome: Successfully mitigating a simulated threat, culminating in the flag THM
 ![Incident Summary](https://github.com/user-attachments/assets/9d266ed2-4141-44a0-b9ad-a3ee1ad47bec)
 
 ### Step 5: Flag Captured  
-![THM Flag](https://github.com/user-attachments/assets/3326e278-81ed-4dc1-a652-f65e03dbd5b3)
+## 🏁 Room Flag  
+✅ Successfully captured the flag 
 
